@@ -38,3 +38,6 @@ This project applies classification techniques (e.g., Logistic Regression and De
 - Lead Time: Longer lead times often increase the likelihood of cancellation.
 - Special Requests: More special requests correlate with fewer cancellations.
 - Market Segment: Online reservations show higher cancellation rates compared to offline channels.
+
+## Contributing
+Contributions in the form of issue reports or suggestions are welcome.
