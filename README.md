@@ -1,7 +1,7 @@
-# Project 4: Hotel Reservation Cancellation Analysis
+# Project 4: Supervised learning - Classifications (Logistic regression and Decision Tree)
 
 ## Overview
-This project applies classification techniques (e.g., Logistic Regression and Decision Trees) to predict the likelihood of hotel booking cancellations. By identifying factors like lead time, room pricing, special requests, and market segments, the project offers actionable insights into reducing hotel reservation cancellations.
+This project applies classification techniques (e.g., Logistic Regression and Decision Trees) to predict the likelihood of hotel booking cancellations. By identifying factors like lead time, room pricing, special requests, and market segments, the project offers actionable insights into reducing hotel reservation cancellations. Pre and post prunning techniques are used to optimize the decision tree model.
 
 ## Project Structure
 - **Project 4 Angelo Rubio.ipynb**  
